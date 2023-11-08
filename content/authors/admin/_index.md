@@ -105,7 +105,7 @@ social:
     link: https://scholar.google.com/citations?hl=en&authuser=1&user=XpMy7TcAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/asaydam21
+    link: https://github.com/Asaydam
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/alpersaydam
